@@ -4,22 +4,11 @@ import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
 import './App.css';
 
-
-// function App() {
-//   return (
-//   <Wrapper>
-//     <Header>Customer Registration Form</Header>
-//       <Form>
-//       </Form>
-//   </Wrapper>
-//   );
-// }
-
 function App() {
   return (
   <Wrapper>
-    <Header>Customer Registration Form</Header>
-      <Form>Hello world</Form>
+    <Header> <i class="fa-solid fa-circle-user"></i> Sign Up</Header>
+      <Form></Form>
   </Wrapper>
   );
 }

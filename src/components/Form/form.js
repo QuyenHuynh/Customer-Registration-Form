@@ -5,17 +5,17 @@ const Form = () => {
     return (
         <div className="form-container">
 
-                <input type="text"placeholder="First name" />
+                <input type="text" className="name" placeholder="First name" />
 
-                <input type="text"placeholder="Last name"/>
+                <input type="text" className="name" placeholder="Last name"/>
 
-                <input type="text" placeholder="Email"/>
+                <input type="text" className="email" placeholder="Email"/>
 
-                <input type="text" placeholder="Password"/>
+                <input type="text" className="password" placeholder="Password"/>
 
-                <input type="text" placeholder="Re-enter password"/>
+                <input type="text" className="password" placeholder="Re-enter password"/>
 
-            <input type="checkbox"/><span>I accept <a href="#">Terms of Use</a></span>
+                <input type="checkbox"/><span>I accept <a href="#">Terms of Use</a></span>
 
             <a className="btn btn-primary btn-med register-btn" href="#" role="button">Register</a>
         </div>

@@ -29,3 +29,33 @@ input::placeholder {
     margin-top: 10px;
 }
 
+/* input.name {
+    background-image: url(../../images/svgs/user-solid.svg);
+    background-repeat: no-repeat;
+    text-indent: 20px;
+}
+   
+input.name:focus {
+background-image:none;
+}
+
+input.email {
+    background-image: url(../../images/svgs/at-solid.svg);
+    background-repeat: no-repeat;
+    text-indent: 20px;
+}
+   
+input.email:focus {
+background-image:none;
+}
+
+input.password {
+    background-image: url(../../images/svgs/key-solid.svg);
+    background-repeat: no-repeat;
+    text-indent: 20px;
+}
+   
+input.password:focus {
+background-image:none;
+}
+*/

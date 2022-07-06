@@ -1,0 +1,17 @@
+.form-container {
+    text-align: left;
+}
+
+.input-wrapper {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+label {
+    width: 150px;
+}
+
+input {
+    width: 300px;
+}
+

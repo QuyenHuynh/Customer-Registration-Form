@@ -1,4 +1,8 @@
-# Registration Form
+# React Forms
+
+A collection of simple React form components for future reuse.
+- Includes webhooks
+- Will add routing and validation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

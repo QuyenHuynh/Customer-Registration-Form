@@ -1,0 +1,25 @@
+.form-container {
+    width: 500px;
+}
+
+input[type="email"] {
+    margin: 0 auto;
+    width: 45%;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border-width: thin;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+input[type="submit"] {
+    width: 25%;
+    background-color: black;
+    color: white;
+}
+
+.error-message {
+    color: red;
+    text-align: center;
+}

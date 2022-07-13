@@ -1,11 +1,13 @@
-import React, { Component } from "react";
-import Form from "./components/SimpleRegisterForm";
+import React from "react";
+import SimpleRegisterForm from "./components/SimpleRegisterForm/SimpleRegisterForm.jsx";
+import SimpleLoginForm from "./components/SimpleLoginForm/SimpleLoginForm.jsx";
 import './App.css';
 
 function App() {
   return (
     <main id="app">
-        <Form></Form>
+      {/* <SimpleRegisterForm/> */}
+      <SimpleLoginForm/>
     </main>
   );
 }

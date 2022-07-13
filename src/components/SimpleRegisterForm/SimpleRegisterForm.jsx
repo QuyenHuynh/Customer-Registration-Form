@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import "./form.css";
+import React from "react";
+import "./SimpleRegisterForm.css";
 
-const Form = () => {
+const SimpleRegisterForm = () => {
     return (
         <div className="form-container">
             <h2 id="title">Register an Account</h2>
@@ -26,4 +26,4 @@ const Form = () => {
     );
 };
 
-export default Form;
+export default SimpleRegisterForm;
